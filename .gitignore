@@ -1,0 +1,8 @@
+# Ignore local ADB/Fastboot binaries downloaded into tools/
+/tools/adb.exe
+/tools/fastboot.exe
+/tools/platform-tools-*.zip
+/tools/platform-tools-extract/
+# Keep the download script and README under version control
+!/tools/get-adb-fastboot.ps1
+!/tools/README.md
