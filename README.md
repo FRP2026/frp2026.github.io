@@ -211,6 +211,12 @@ end
 
 ## 🐛 Troubleshooting
 
+### Recover Your Google Account After a Factory Reset
+
+If Android asks you to verify your account after a factory reset, sign in with a Google Account that was previously added and synced to the device. If you forgot your email address or password, follow [Google's official account recovery guide](https://support.google.com/accounts/answer/7682439).
+
+If you bought the device second-hand and it asks for the previous owner's account, contact the seller. If you need more help, contact the device manufacturer's official support with your proof of purchase.
+
 ### Intent Not Working
 - Verify the package is installed on the device
 - Check Android version compatibility
